@@ -17,7 +17,7 @@ $from = "Network Administrator <PWremind@domainchangemesd.com>"
 $logging = "Enabled" # Set to Disabled to Disable Logging
 $logFile = "c:\scripts\active_directory\pwlog\$(get-date -f yyyy-MM-dd).csv" # ie. c:\mylog.csv
 $testing = "Disabled" # Set to Disabled to Email Users
-$testRecipient = "techcoord@domainchangemesd.com"
+$testRecipient = "youremail@domainchangemesd.com"
 $date = Get-Date -Format MMddyyyy
 #
 ###################################################################################################################
